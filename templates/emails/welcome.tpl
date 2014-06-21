@@ -1,20 +1,20 @@
-<p>
-	Hello {username},
+: <p>
+Bonjour {username},
 </p>
 
 <p>
-	<strong>Thank you for registering with {site_title}!</strong>
+<strong>Merci de vous être inscrit {site_title} !</strong>
 </p>
 
 <p>
-	To fully activate your account, we need to verify that you own the email address you registered with. Please click on the following link:
+Pour activer pleinement votre compte, nous devons vérifier que l'adresse avec laquelle vous vous êtes incrit est bien la votre. Veuillez donc cliquer sur ce lien :
 </p>
 
 <blockquote>
-	<a href="{confirm_link}">{confirm_link}</a>
+<a href="{confirm_link}">{confirm_link}</a>
 </blockquote>
 
 <p>
-	Thanks!<br />
-	<strong>{site_title}</strong>
+Merci !<br />
+<strong>{site_title}</strong>
 </p>
