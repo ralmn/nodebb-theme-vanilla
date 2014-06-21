@@ -1,11 +1,11 @@
-Hello {username},
+Bonjour {username},
 
-Thank you for registering with {site_title}!
+Merci de vous être inscrit sur {site_title} !
 
-To fully activate your account, we need to verify that you own the email address you registered with. Please visit on the following link:
+Pour activer pleinement votre compte, nous devons vérifier que l'adresse avec laquelle vous vous êtes incrit est bien la votre. Veuillez donc cliquer sur ce lien :
 
-    {confirm_link}
+{confirm_link}
 
 
-Thanks!
+Merci !
 {site_title}
