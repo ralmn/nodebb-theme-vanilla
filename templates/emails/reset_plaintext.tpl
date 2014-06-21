@@ -1,10 +1,10 @@
-Hello,
+Bonjour,
 
-We received a request to reset your password, possibly because you have forgotten it. If this is not the case, please ignore this email.
+Nous avons reçu une demande de réinitialisation de votre mot de passe, sûrement car vous l'avez oublié. Si ce n'est pas le cas, ignorez ce message.
 
-To continue with the password reset, please visit the following link:
+Pour réinitialiser le mot de passe, cliquez sur ce lien :
 
-    {reset_link}
+{reset_link}
 
-Thanks!
+Merci !
 {site_title}
