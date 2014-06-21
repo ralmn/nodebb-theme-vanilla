@@ -3,7 +3,7 @@ Bonjour {username},
 </p>
 
 <p>
-<strong>Merci de vous être inscrit {site_title} !</strong>
+<strong>Merci de vous être inscrit sur {site_title} !</strong>
 </p>
 
 <p>
