@@ -1,20 +1,20 @@
-<p>
-	Hello,
+ <p>
+Bonjour,
 </p>
 
 <p>
-	We received a request to reset your password, possibly because you have forgotten it. If this is not the case, please ignore this email.
+Nous avons reçu une demande de réinitialisation de votre mot de passe, sûrement car vous l'avez oublié. Si ce n'est pas le cas, ignorez ce message.
 </p>
 
 <p>
-	To continue with the password reset, please click on the following link:
+Pour réinitialiser le mot de passe, cliquez sur ce lien :
 </p>
 
 <blockquote>
-	<a href="{reset_link}">{reset_link}</a>
+<a href="{reset_link}">{reset_link}</a>
 </blockquote>
 
 <p>
-	Thanks!<br />
-	<strong>{site_title}</strong>
+Merci !<br />
+<strong>{site_title}</strong>
 </p>
